@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  myhealthytrack
+
+  Created by Hailey Hurt on 12/14/17.
+  Copyright © 2017 Hailey Hurt. All rights reserved.
+*/
+
+"Your daily goal is" = "Your daily goal is";
+"vegetables" = "vegetables";
+"fruit" = "fruit";
+"steps" = "steps";
+"hours" = "hours";
+"glasses" = "glasses";
+"HealthKit says you have" = "HealthKit says you have";
+"Keep Going!" = "Keep Going!";
+"Congratulations!" = "Congratulations!";
+"You are only" = "You are only";
+"vegetable servings away from your daily goal!" = "vegetable servings away from your daily goal!";
+"You have reached your daily goal of" = "You have reached your daily goal of";
+"vegetable servings!" = "vegetable servings!";
+"You have eaten" = "You have eaten";
+"vegetable servings more than your goal!" = "vegetable servings more than your goal!";
+"fruit servings away from your daily goal!" = "fruit servings away from your daily goal!";
+"fruit servings!" = "fruit servings!";
+"fruit servings more than your goal!" = "fruit servings more than your goal!";
+"steps away from your daily goal!" = "steps away from your daily goal!";
+"You have" = "You have";
+"steps more than your goal!" = "steps more than your goal!";
+"Catch Up!" = "Catch Up!";
+"You may be a little behind on your sleep. Try to get to bed a little earlier!" = "You may be a little behind on your sleep. Try to get to bed a little earlier!";
+"You reached your daily sleep goal!" = "You reached your daily sleep goal!";
+"Looks like you had a good night of sleep!" = "Looks like you had a good night of sleep!";
+"glasses of water away from your daily goal!" = "glasses of water away from your daily goal!";
+"glasses of water!" = "glasses of water!";
+"glasses of water more than your goal!" = "glasses of water more than your goal!";
+"Select dates to view your progress." = "Select dates to view your progress.";
+"Settings" = "Settings";
+"The Blues" = "The Blues";
+"Stone Cold" = "Stone Cold";
+"All Natural" = "All Natural";
+"Sunday" = "Sunday";
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Restore" = "Restore";
+"Cancel" = "Cancel";
+"Are you sure you want to restore settings?" = "Are you sure you want to restore settings?";
+"Restore Settings" = "Restore Settings";

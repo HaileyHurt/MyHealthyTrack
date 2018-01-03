@@ -1,0 +1,6 @@
+framework module Pods_myhealthytrackTests {
+  umbrella header "Pods-myhealthytrackTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

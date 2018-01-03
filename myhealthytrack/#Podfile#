@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+
+target 'myhealthytrack' do
+  use_frameworks!
+    pod 'JTAppleCalendar', '~> 7.0'
+    pod 'Charts','= 3.0.3'
+end
+
+target 'myhealthytr

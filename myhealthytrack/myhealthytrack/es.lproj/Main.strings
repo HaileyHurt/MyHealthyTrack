@@ -1,0 +1,448 @@
+
+/* Class = "UILabel"; text = "How many glass of water have you drank today?"; ObjectID = "0aq-m8-2BZ"; */
+"0aq-m8-2BZ.text" = "¿Cuántos vasos de agua has bebido hoy?";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "1Zg-0g-k2s"; */
+"1Zg-0g-k2s.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "1lt-y8-c0M"; */
+"1lt-y8-c0M.text" = "Domingo";
+
+/* Class = "UINavigationItem"; title = "October 27th, 2017"; ObjectID = "21G-5H-tYI"; */
+"21G-5H-tYI.title" = "Octubre 27, 2017";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "2W1-6d-BZO"; */
+"2W1-6d-BZO.text" = "Actividad";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "2jt-Da-pZI"; */
+"2jt-Da-pZI.normalTitle" = "Editar";
+
+/* Class = "UIButton"; normalTitle = "V"; ObjectID = "3RP-e3-GWd"; */
+"3RP-e3-GWd.normalTitle" = "V";
+
+/* Class = "UILabel"; text = "If you would like to adjust your steps, enter the number below"; ObjectID = "3TE-Af-gFI"; */
+"3TE-Af-gFI.text" = "Si desea ajustar sus pasos, ingrese el siguiente número";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "3cg-Yk-z6P"; */
+"3cg-Yk-z6P.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "3lz-0h-Jlc"; */
+"3lz-0h-Jlc.text" = "J";
+
+/* Class = "UIButton"; normalTitle = "28"; ObjectID = "4Uv-CP-Rkd"; */
+"4Uv-CP-Rkd.normalTitle" = "28";
+
+/* Class = "UILabel"; text = "How much sleep (in hours) did you get last night?"; ObjectID = "4zA-jJ-YkD"; */
+"4zA-jJ-YkD.text" = "¿Cuánto dormiste (en horas) la noche anterior?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "50P-cN-Xme"; */
+"50P-cN-Xme.normalTitle" = "Cancelar";
+
+/* Class = "UITextField"; placeholder = "10,932"; ObjectID = "533-bI-P2A"; */
+"533-bI-P2A.placeholder" = "0000";
+
+/* Class = "UIButton"; normalTitle = "26"; ObjectID = "57k-85-Fcd"; */
+"57k-85-Fcd.normalTitle" = "26";
+
+/* Class = "UILabel"; text = "How many glass of water would you like to drink every day?"; ObjectID = "5GE-nN-wD3"; */
+"5GE-nN-wD3.text" = "¿Cuántos vasos de agua te gustaría beber todos los días?";
+
+/* Class = "UILabel"; text = "Default"; ObjectID = "5He-T5-olk"; */
+"5He-T5-olk.text" = "Defecto";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5PT-2p-rMs"; */
+"5PT-2p-rMs.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Today's Steps"; ObjectID = "686-uh-ITD"; */
+"686-uh-ITD.text" = "Pasos de hoy";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "6fF-49-LZj"; */
+"6fF-49-LZj.text" = "M";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7pe-De-6EA"; */
+"7pe-De-6EA.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Blues"; ObjectID = "7sM-nE-bcc"; */
+"7sM-nE-bcc.text" = "Los Azules";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "7sn-Yf-d25"; */
+"7sn-Yf-d25.text" = "General";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "84B-gN-4xm"; */
+"84B-gN-4xm.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "8W6-Kd-IMo"; */
+"8W6-Kd-IMo.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Today's Water"; ObjectID = "8db-9V-3NF"; */
+"8db-9V-3NF.text" = "Agua de Hoy";
+
+/* Class = "UILabel"; text = "Water"; ObjectID = "8uo-hj-cpr"; */
+"8uo-hj-cpr.text" = "Agua";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "9tw-rk-Ttf"; */
+"9tw-rk-Ttf.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "AJu-8s-eEM"; */
+"AJu-8s-eEM.text" = "100%";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Ayv-Km-Cwc"; */
+"Ayv-Km-Cwc.normalTitle" = "Editar";
+
+/* Class = "UIButton"; normalTitle = "25"; ObjectID = "BUI-jx-g4e"; */
+"BUI-jx-g4e.normalTitle" = "25";
+
+/* Class = "UILabel"; text = "D a i l y  G o a l "; ObjectID = "BpR-cP-HRB"; */
+"BpR-cP-HRB.text" = "Objetivo Diario";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "CKx-2U-3Dl"; */
+"CKx-2U-3Dl.normalTitle" = "Editar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "D2y-Rd-Yy0"; */
+"D2y-Rd-Yy0.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "Goal Water"; ObjectID = "DCW-E1-8bJ"; */
+"DCW-E1-8bJ.text" = "Agua Ideal";
+
+/* Class = "UILabel"; text = "How much sleep (in hours) do you want to get each night"; ObjectID = "DUp-Fw-Epc"; */
+"DUp-Fw-Epc.text" = "¿Cuánto duerme (en horas) que desea obtener cada noche?";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Dwu-Pl-v3v"; */
+"Dwu-Pl-v3v.normalTitle" = "Salvar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Ebv-rT-HM3"; */
+"Ebv-rT-HM3.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "You ar 3102 steps away from your daily activity goal!"; ObjectID = "Eut-l8-5Km"; */
+"Eut-l8-5Km.text" = "¡Estás a 3102 pasos de tu objetivo de actividad diaria!";
+
+/* Class = "UILabel"; text = "Mood"; ObjectID = "F2v-zA-jBb"; */
+"F2v-zA-jBb.text" = "Humor";
+
+/* Class = "UIButton"; normalTitle = "V"; ObjectID = "GXw-XB-G1S"; */
+"GXw-XB-G1S.normalTitle" = "V";
+
+/* Class = "UILabel"; text = "Veggie"; ObjectID = "GeS-az-tv5"; */
+"GeS-az-tv5.text" = "Verdura";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Gxq-2u-NVb"; */
+"Gxq-2u-NVb.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "Your daily goal is 10,000 steps"; ObjectID = "HPM-6h-MEz"; */
+"HPM-6h-MEz.text" = "Tu objetivo es 10,000 pasos";
+
+/* Class = "UILabel"; text = "D a i l y  G o a l "; ObjectID = "HTN-QW-QWB"; */
+"HTN-QW-QWB.text" = "Objetivo";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "Hb3-nn-1rS"; */
+"Hb3-nn-1rS.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Congratulations!"; ObjectID = "HfO-v2-Nqz"; */
+"HfO-v2-Nqz.text" = "Felicitaciones!";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Hmw-yD-LGg"; */
+"Hmw-yD-LGg.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "Fruits"; ObjectID = "HsR-Ct-qkZ"; */
+"HsR-Ct-qkZ.text" = "Frutas";
+
+/* Class = "UIButton"; normalTitle = "DOWN"; ObjectID = "IMf-rj-QAP"; */
+"IMf-rj-QAP.normalTitle" = "ABAJO";
+
+/* Class = "UILabel"; text = "Sleep"; ObjectID = "IYQ-nx-XIA"; */
+"IYQ-nx-XIA.text" = "Dormir";
+
+/* Class = "UILabel"; text = "HealthKit says you have 10,932 steps"; ObjectID = "J5E-f5-auO"; */
+"J5E-f5-auO.text" = "HealthKit dice que tienes 0.0 pasos";
+
+/* Class = "UILabel"; text = "How many servings of fruit would you like to eat every day?"; ObjectID = "JJI-xU-iMi"; */
+"JJI-xU-iMi.text" = "¿Cuántas porciones de fruta le gustaría comer todos los días?";
+
+/* Class = "UILabel"; text = "8.0"; ObjectID = "JZS-qL-Dmj"; */
+"JZS-qL-Dmj.text" = "8.0";
+
+/* Class = "UILabel"; text = "Water"; ObjectID = "JkM-JY-G46"; */
+"JkM-JY-G46.text" = "Agua";
+
+/* Class = "UILabel"; text = "Today's Mood"; ObjectID = "Kad-e9-p6b"; */
+"Kad-e9-p6b.text" = "El humor de hoy";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "Kf5-Pn-ckV"; */
+"Kf5-Pn-ckV.text" = "V";
+
+/* Class = "UILabel"; text = "We recommend that you set your daily goal to be at least 2 servings"; ObjectID = "Kpm-uv-dGn"; */
+"Kpm-uv-dGn.text" = "Le recomendamos que su objetivo sea al menos 2 porciones";
+
+/* Class = "UILabel"; text = "Today's Vegetables"; ObjectID = "L0C-l6-vfn"; */
+"L0C-l6-vfn.text" = "Vegetales de hoy";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "LLE-sa-j7I"; */
+"LLE-sa-j7I.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Fruits"; ObjectID = "MIa-0r-hhP"; */
+"MIa-0r-hhP.text" = "Frutas";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "MVi-QE-pL3"; */
+"MVi-QE-pL3.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "How many servings of vegetables have your eaten today?"; ObjectID = "MZJ-mn-8Sy"; */
+"MZJ-mn-8Sy.text" = "¿Cuántas porciones de vegetales has comido hoy?";
+
+/* Class = "UILabel"; text = "Sat"; ObjectID = "Mho-LY-gqB"; */
+"Mho-LY-gqB.text" = "D";
+
+/* Class = "UILabel"; text = "Your daily goal is 8 glasses"; ObjectID = "NQi-Ya-38M"; */
+"NQi-Ya-38M.text" = "Tu objetivo es 8 vasos";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "O1b-t5-rba"; */
+"O1b-t5-rba.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "O9w-m1-NSL"; */
+"O9w-m1-NSL.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Your daily goal is 7.25 hours"; ObjectID = "OHl-vW-mCO"; */
+"OHl-vW-mCO.text" = "Tu objetivo es 7.25 horas";
+
+/* Class = "UILabel"; text = "How many servings of fruit have your eaten today?"; ObjectID = "OIt-Rb-hxm"; */
+"OIt-Rb-hxm.text" = "¿Cuántas porciones de fruta has comido hoy?";
+
+/* Class = "UIButton"; normalTitle = "UP"; ObjectID = "PJ5-So-Vrx"; */
+"PJ5-So-Vrx.normalTitle" = "ARRIBA";
+
+/* Class = "UILabel"; text = "Steps"; ObjectID = "RaJ-LS-wN8"; */
+"RaJ-LS-wN8.text" = "Pasos";
+
+/* Class = "UILabel"; text = "Start of Week"; ObjectID = "RtZ-td-4XK"; */
+"RtZ-td-4XK.text" = "Comienzo de la semana";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "S7s-yd-zHL"; */
+"S7s-yd-zHL.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "23"; ObjectID = "TRx-j9-Eph"; */
+"TRx-j9-Eph.normalTitle" = "23";
+
+/* Class = "UILabel"; text = "Goal Vegetables"; ObjectID = "TpP-9C-mDo"; */
+"TpP-9C-mDo.text" = "Verduras Ideal";
+
+/* Class = "UILabel"; text = "Vegetables"; ObjectID = "UvQ-xs-n21"; */
+"UvQ-xs-n21.text" = "Verduras";
+
+/* Class = "UIButton"; normalTitle = "V"; ObjectID = "V1Y-j6-9oQ"; */
+"V1Y-j6-9oQ.normalTitle" = "V";
+
+/* Class = "UIButton"; normalTitle = "22"; ObjectID = "VRN-vN-6Fh"; */
+"VRN-vN-6Fh.normalTitle" = "22";
+
+/* Class = "UILabel"; text = "Color Theme"; ObjectID = "VRm-6q-oIx"; */
+"VRm-6q-oIx.text" = "Tema de color";
+
+/* Class = "UILabel"; text = "Goal Fruit"; ObjectID = "WGk-qH-MH0"; */
+"WGk-qH-MH0.text" = "Fruta Ideal";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Xbq-N0-EdJ"; */
+"Xbq-N0-EdJ.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YQw-Rv-NM0"; */
+"YQw-Rv-NM0.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Sleep"; ObjectID = "Ys1-OM-szV"; */
+"Ys1-OM-szV.text" = "Dormir";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "ZMQ-Tp-VpF"; */
+"ZMQ-Tp-VpF.text" = "S";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "ZUo-8D-ace"; */
+"ZUo-8D-ace.text" = "Restaurar Configuracion";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Zmh-Qr-Rw9"; */
+"Zmh-Qr-Rw9.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Your daily goal is 2 servings"; ObjectID = "Zo5-M2-7Cg"; */
+"Zo5-M2-7Cg.text" = "Tu objetivo es 2 porciones";
+
+/* Class = "UILabel"; text = "Fruit"; ObjectID = "abI-9h-plX"; */
+"abI-9h-plX.text" = "Frutas";
+
+/* Class = "UILabel"; text = "We recommend that you set your daily goal to be at least 8 glasses"; ObjectID = "b1H-Pa-gfw"; */
+"b1H-Pa-gfw.text" = "Le recomendamos que su objetivo diario de al menos 8 vasos";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "bvl-sT-Tns"; */
+"bvl-sT-Tns.text" = "L";
+
+/* Class = "UILabel"; text = "How many servings of vegetables would you like to eat each day?"; ObjectID = "bzu-VI-ZtV"; */
+"bzu-VI-ZtV.text" = "¿Cuántas porciones de vegetales le gustaría comer cada día?";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "cDh-EN-sA1"; */
+"cDh-EN-sA1.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "How many steps would you like to get every day?"; ObjectID = "cUV-nt-dsc"; */
+"cUV-nt-dsc.text" = "¿Cuántos pasos le gustaría obtener todos los días?";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "ce1-dx-hRz"; */
+"ce1-dx-hRz.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "Activity"; ObjectID = "cgk-ff-0SH"; */
+"cgk-ff-0SH.text" = "Actividad";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cmI-ut-5kx"; */
+"cmI-ut-5kx.normalTitle" = "Botón";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "d20-MW-Ehx"; */
+"d20-MW-Ehx.normalTitle" = "Salvar";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "d2f-zC-aDY"; */
+"d2f-zC-aDY.normalTitle" = "Salvar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "dLM-Bk-W5p"; */
+"dLM-Bk-W5p.normalTitle" = "Editar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "dOB-EH-jcD"; */
+"dOB-EH-jcD.normalTitle" = "Editar";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dZm-X9-fi0"; */
+"dZm-X9-fi0.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "UP"; ObjectID = "ddW-Es-MnX"; */
+"ddW-Es-MnX.normalTitle" = "ARRIBA";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "e1D-MP-SRN"; */
+"e1D-MP-SRN.normalTitle" = "Salvar";
+
+/* Class = "UIButton"; normalTitle = "V"; ObjectID = "e6L-wL-uLk"; */
+"e6L-wL-uLk.normalTitle" = "V";
+
+/* Class = "UILabel"; text = "Mood"; ObjectID = "eEw-Yu-xFM"; */
+"eEw-Yu-xFM.text" = "Humor";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "ejl-7J-BJf"; */
+"ejl-7J-BJf.title" = "Configuraciones";
+
+/* Class = "UILabel"; text = "Tue"; ObjectID = "esU-bx-iHz"; */
+"esU-bx-iHz.text" = "X";
+
+/* Class = "UILabel"; text = "We recommend that you set your daily goal to be at least 3 servings"; ObjectID = "fXE-Zo-n3l"; */
+"fXE-Zo-n3l.text" = "Le recomendamos que su objetivo sea al menos 3 porciones"; 
+
+/* Class = "UILabel"; text = "Your daily goal is 3 servings"; ObjectID = "gIX-7C-uRc"; */
+"gIX-7C-uRc.text" = "Tu objetivo es 3 porciones";
+
+/* Class = "UILabel"; text = "Today's Sleep"; ObjectID = "gLr-sm-jXE"; */
+"gLr-sm-jXE.text" = "El sueño de hoy";
+
+/* Class = "UILabel"; text = "8.0"; ObjectID = "gNE-sn-GTq"; */
+"gNE-sn-GTq.text" = "8.0";
+
+/* Class = "UILabel"; text = "Vegetables"; ObjectID = "gTy-lx-vyg"; */
+"gTy-lx-vyg.text" = "Verduras";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "geq-2L-lSD"; */
+"geq-2L-lSD.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hH9-DJ-0CM"; */
+"hH9-DJ-0CM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Water"; ObjectID = "hLt-uH-OCS"; */
+"hLt-uH-OCS.text" = "Agua";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hgp-0j-hCk"; */
+"hgp-0j-hCk.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "October 2017"; ObjectID = "jOS-Nq-qSR"; */
+"jOS-Nq-qSR.text" = "Octubre 2017";
+
+/* Class = "UIButton"; normalTitle = "V"; ObjectID = "jjv-Ih-01M"; */
+"jjv-Ih-01M.normalTitle" = "V";
+
+/* Class = "UILabel"; text = "Goal Steps"; ObjectID = "kks-vV-9qG"; */
+"kks-vV-9qG.text" = "Pasos Ideal";
+
+/* Class = "UIButton"; normalTitle = "DOWN"; ObjectID = "l1u-Uh-sJU"; */
+"l1u-Uh-sJU.normalTitle" = "ABAJO";
+
+/* Class = "UINavigationItem"; title = " Settings"; ObjectID = "mfU-ct-Nj3"; */
+"mfU-ct-Nj3.title" = "Configuraciones";
+
+/* Class = "UILabel"; text = "Goal Sleep"; ObjectID = "odk-yw-gdc"; */
+"odk-yw-gdc.text" = "sueño ideal";
+
+/* Class = "UILabel"; text = "Today's Fruit"; ObjectID = "pxh-yU-SHV"; */
+"pxh-yU-SHV.text" = "Frutas de Hoy";
+
+/* Class = "UIButton"; normalTitle = "27"; ObjectID = "rEo-iH-K7c"; */
+"rEo-iH-K7c.normalTitle" = "27";
+
+/* Class = "UILabel"; text = "Sleep"; ObjectID = "rz6-au-P63"; */
+"rz6-au-P63.text" = "sueño";
+
+/* Class = "UIButton"; normalTitle = "24"; ObjectID = "sPB-gN-Uqa"; */
+"sPB-gN-Uqa.normalTitle" = "24";
+
+/* Class = "UITextField"; placeholder = "10,932"; ObjectID = "tEA-oN-hye"; */
+"tEA-oN-hye.placeholder" = "0000";
+
+/* Class = "UILabel"; text = "Daily Goals"; ObjectID = "uea-2H-iaO"; */
+"uea-2H-iaO.text" = "Objetivos Diarios";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "usa-If-t8Z"; */
+"usa-If-t8Z.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "We recommend that you set your daily goal to be at least 10,000 steps"; ObjectID = "vDj-hb-mEm"; */
+"vDj-hb-mEm.text" = "Recomendamos que su objetivo diario en al menos 10,000 pasos";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "who-rq-fOF"; */
+"who-rq-fOF.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "ws2-b4-9oB"; */
+"ws2-b4-9oB.text" = "0%";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "xxz-CT-Kgl"; */
+"xxz-CT-Kgl.text" = "0%";
+
+/* Class = "UILabel"; text = "We recommend that you set your daily goal to be at least 7 hours"; ObjectID = "y6P-vf-4mZ"; */
+"y6P-vf-4mZ.text" = "Recomendamos que establezca su meta de al menos 7 horas";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "yGY-Gd-B13"; */
+"yGY-Gd-B13.text" = "100%";
+
+/* Class = "UILabel"; text = "How are you feeling today?"; ObjectID = "yIf-ES-el1"; */
+"yIf-ES-el1.text" = "¿Cómo te sientes hoy?";
+
+/* Class = "UIBarButtonItem"; title = "Calendar >"; ObjectID = "yJE-Tu-T5Q"; */
+"yJE-Tu-T5Q.title" = "Calendario >";
+
+/* Class = "UINavigationItem"; title = "My Healthy Track"; ObjectID = "yOp-o4-K21"; */
+"yOp-o4-K21.title" = "Mi pista sana";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "yuu-bA-4J2"; */
+"yuu-bA-4J2.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zPz-LT-izx"; */
+"zPz-LT-izx.normalTitle" = "Button";
+
+"fh2-7A-GZz.normalTitle" = "Restaurar Configuracion";
+
+"TKP-3A-Rfp.text" = "Haga clic en el botón a continuación para restablecer la configuración predeterminada del calendario.";
+
+"g31-3B-pd0.text" = "domingo";
+
+"INF-yg-fAI.text" = "lunes";
+
+"NgL-Nq-xIP.text" = "martes";
+
+"6jH-Ph-SAR.text" = "miércoles";
+
+"Se8-MB-Ze6.text" = "jueves";
+
+"lyl-nd-EcY.text" = "viernes";
+
+"K06-AC-fPb.text" = "sábado";
+
+"bpd-FN-Vv8.text" = "Seleccione el primer día de la semana:";
+
+"L55-ad-MJh.text" = "Seleccione su tema de color:";
+
+"wfD-fV-fpR.text" = "Los azules";
+
+"pTf-nB-vGG.text" = "Piedra fría";
+
+"SKA-pI-2iB.text" = "Todo natural";

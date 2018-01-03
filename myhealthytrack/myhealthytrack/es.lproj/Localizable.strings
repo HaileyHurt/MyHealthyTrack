@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  myhealthytrack
+
+  Created by Hailey Hurt on 12/14/17.
+  Copyright © 2017 Hailey Hurt. All rights reserved.
+*/
+
+"Your daily goal is" = "Tu objetivo es";
+"vegetables" = "verduras";
+"fruit" = "frutas";
+"steps" = "pasos";
+"hours" = "horas";
+"glasses" = "vasos";
+"HealthKit says you have" = "HealthKit dice que tienes";
+"Keep Going!" = "¡Sigue adelante!";
+"Congratulations!" = "¡Felicitaciones!";
+"You are only" = "Eres solo";
+"vegetable servings away from your daily goal!" = "porciones de vegetales lejos de su objetivo diario!";
+"You have reached your daily goal of" = "Has alcanzado tu meta diaria de";
+"vegetable servings!" = "porciones de vegetales!";
+"You have eaten" = "Has comido";
+"vegetable servings more than your goal!" = "porciones de vegetales más que tu objetivo!";
+"fruit servings away from your daily goal!" = "porciones de fruta lejos de su objetivo diario!";
+"fruit servings!" = "porciones de fruta!";
+"fruit servings more than your goal!" = "porciones de fruta más que tu objetivo!";
+"steps away from your daily goal!" = "pasos de su objetivo diario!";
+"You have" = "Tienes";
+"steps more than your goal!" = "pasos más que tu objetivo!";
+"Catch Up!" = "¡Alcanzar!";
+"You may be a little behind on your sleep. Try to get to bed a little earlier!" = "Es posible que estés un poco atrasado en tu sueño. Intenta ir a la cama un poco antes!";
+"You reached your daily sleep goal!" = "¡Has alcanzado tu objetivo de sueño diario!";
+"Looks like you had a good night of sleep!" = "¡Parece que has tenido una buena noche de sueño!";
+"glasses of water away from your daily goal!" = "vasos de agua lejos de su objetivo diario!";
+"glasses of water!" = "vasos de agua!";
+"glasses of water more than your goal!" = "vasos de agua más que tu objetivo!";
+"Select dates to view your progress." = "Seleccione las fechas para ver su progreso.";
+"Settings" = "Configuraciones";
+"The Blues" = "Los azules";
+"Stone Cold" = "Piedra fría";
+"All Natural" = "Todo natural";
+"Sunday" = "domingo";
+"Monday" = "lunes";
+"Tuesday" = "martes";
+"Wednesday" = "miércoles";
+"Thursday" = "jueves";
+"Friday" = "viernes";
+"Saturday" = "sábado";
+"Restore" = "Restorar";
+"Cancel" = "Cancelar";
+"Are you sure you want to restore settings?" = "¿Seguro que quieres restaurar la configuración?";
+"Restore Settings" = "Restorar Configuraciones";
+
